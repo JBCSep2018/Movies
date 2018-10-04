@@ -11,7 +11,7 @@ public class Main {
     // Declare array list to hold list of movies
     ArrayList<String> Movies = new ArrayList<>();
 
-    // Declare variable "movie_title" to hold movie entered by the user
+    // Declare variable "movieTitle" to hold movie entered by the user
     String movieTitle = "";
 
     do {
@@ -28,8 +28,8 @@ public class Main {
     // Sort list of movies
     Collections.sort(Movies);
 
-    // Print list of movies
-    for(String s:Movies){
+    // Print list of movies sorted
+    for(String s : Movies){
       System.out.println(s);
     }
 

@@ -1,0 +1,31 @@
+Things To Do:
+
+1) Prompt user for movie name
+2) Storing the movie name entered
+3) Printing the list of movies
+4) Sorting the list of movies
+5) Printing the sorted list
+6) Continue to ask the user for more movies until they want to quit
+7) Suggest a random movie
+
+Variables needed:
+1) 
+	- String variable to hold the movie name
+
+2)
+	- Array list to hold all movies entered
+	
+3) 
+4) 
+5)
+6)
+7) Optional: String to hold movie for suggestion
+
+Steps:
+
+1) Prompt user for movie name
+2) Storing the movie name entered
+3) Continue to ask the user for more movies until they want to quit
+4) Sorting the list of movies
+5) Print list of movies
+6) Randomly suggest movie
